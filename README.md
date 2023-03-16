@@ -1,7 +1,7 @@
 # newStarters_assignments
 
 
-** Script Adjustment
+'**' Script Adjustment
 Public Docs: https://docs.usercentrics.com/#/direct-implementation-guide?id=step-2-adjust-existing-scripts
 
 Jira and Confluence
